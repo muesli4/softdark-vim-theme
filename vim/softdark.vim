@@ -108,7 +108,7 @@ hi MatchParen guifg=#5f87d7 guibg=#202020 guisp=#202020 gui=bold ctermfg=68 cter
 hi Repeat guifg=white guibg=NONE guisp=NONE gui=bold ctermfg=231 ctermbg=NONE cterm=bold
 "hi SpellBad -- no settings --
 "hi CTagsClass -- no settings --
-"hi Directory -- no settings --
+hi Directory guifg=#5f87d7 ctermfg=68
 hi Structure guifg=#d75f5f guibg=NONE guisp=NONE gui=bold ctermfg=167 ctermbg=NONE cterm=bold
 hi Macro guifg=#d75f5f guibg=NONE guisp=NONE gui=bold ctermfg=167 ctermbg=NONE cterm=bold
 "hi Underlined -- no settings --
